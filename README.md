@@ -1,56 +1,81 @@
-# Prachi Sawant 
+# Prachi Sawant
 
-### About Me
-Aspiring **Business Analyst** with a strong foundation in **data analytics and business intelligence**.  
-I enjoy transforming complex datasets into **clear, actionable insights** using **Power BI, SQL, and Excel**.  
-Passionate about **process improvement, stakeholder collaboration**, and **data-driven decision-making**.
+Computer Science student interested in **Artificial Intelligence, Machine Learning, and Data Analytics**.
+I enjoy building systems that transform raw data into meaningful insights and intelligent applications — from **data dashboards and analytics pipelines** to **machine learning models and RAG-based AI systems**.
 
----
-
-### 🔭 Currently Working On
-- Building **end-to-end Power BI dashboards**
-- Business performance & **KPI tracking**
-- **Executive-level reporting** using real-world datasets
+My work focuses on combining **data analysis, machine learning, and software engineering** to build practical, end-to-end solutions.
 
 ---
 
-### 👯 Open to Collaboration
-- Data analytics & business intelligence projects  
-- Power BI dashboards & **business problem solving**
-- **Insight storytelling** and reporting
+## Current Focus
+
+* Building **AI and machine learning projects**
+* Developing **Retrieval-Augmented Generation (RAG) systems**
+* Creating **data analytics and visualization dashboards**
+* Exploring **LLMs, transformers, and modern AI architectures**
 
 ---
 
-### 🤝 Looking for Help With
-- Advanced **Power BI DAX**
-- Data modeling **best practices**
-- Improving **business storytelling** through dashboards
+## Open to Collaboration
+
+* Machine learning and AI projects
+* Data analytics and visualization systems
+* Research-oriented AI tools and applications
 
 ---
 
-### 🌱 Currently Learning
-- **Advanced Power BI**
-  - DAX
-  - Data modeling
-  - Drill-through & bookmarks
-- **Business Analysis Techniques**
-  - Requirement gathering
-  - KPI definition
-  - Process mapping
-- **SQL** for analytical use cases
+## Currently Learning
+
+* Large Language Models and **RAG architectures**
+* Advanced **Machine Learning techniques**
+* **Deep learning and transformer models**
+* Scalable **data pipelines and analytics systems**
 
 ---
 
-### 💬 Ask Me About
-- Power BI dashboards  
-- Business analytics projects  
-- KPI design  
-- Data visualization  
-- Starting a career as a **Business Analyst**
+## Technical Skills
+
+### Programming
+
+Python • SQL • Java • JavaScript • TypeScript
+
+### Machine Learning & AI
+
+scikit-learn • TensorFlow • Pandas • Matplotlib • NLP • Retrieval-Augmented Generation
+
+### Data Analytics
+
+Power BI • Excel • Data Visualization • KPI Analysis
+
+### Databases
+
+MySQL • PostgreSQL
+
+### Web & Tools
+
+React • Next.js • TailwindCSS • Vite
+Git • GitHub • Figma • Notion
 
 ---
 
-## 🌐 Connect With Me
+## Selected Project Areas
+
+* **Machine Learning Systems**
+  Predictive models and ML pipelines using Python and scikit-learn.
+
+* **Retrieval-Augmented Generation (RAG)**
+  AI systems that retrieve knowledge from documents and generate grounded responses.
+
+* **Data Analytics Dashboards**
+  Business and operational insights using Power BI and real-world datasets.
+
+* **Data Visualization**
+  Transforming complex datasets into clear, actionable insights.
+
+---
+
+## Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prachi-sawant-834334257)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@prachisawant38079)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/GapSubstantial6610/)
@@ -59,22 +84,17 @@ Passionate about **process improvement, stakeholder collaboration**, and **data-
 
 ---
 
-## 💻 Tech Stack
-**Analytics & BI**  
-Power BI • SQL • Excel • Python  
+## GitHub Stats
 
-**Databases**  
-MySQL • PostgreSQL  
-
-**Data Science & ML**  
-Pandas • Matplotlib • scikit-learn • TensorFlow  
-
-**Web & Tools**  
-HTML • JavaScript • TypeScript • TailwindCSS • Vite • Next.js  
-Git • GitHub • Figma • Notion
-
----
-
-## 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Prachi290-pr&hide_border=true)
+
 ---
+
+## Areas of Interest
+
+Artificial Intelligence
+Machine Learning
+Natural Language Processing
+Data Analytics
+Intelligent Data Systems
+
