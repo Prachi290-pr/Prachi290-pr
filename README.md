@@ -3,7 +3,7 @@
 Artificial Intelligence and Data Science student interested in **Artificial Intelligence, Machine Learning, and Data Analytics**.
 I enjoy building systems that transform raw data into meaningful insights and intelligent applications — from **data dashboards and analytics pipelines** to **machine learning models and RAG-based AI systems**.
 
-My work focuses on combining **data analysis, machine learning, and software engineering** to build practical, end-to-end solutions.
+My work focuses on combining **artificial intelligence, machine learning and data analysis** to build practical, end-to-end solutions.
 
 ---
 
